@@ -1,0 +1,66 @@
+.navbar-custom {
+    background-color: #00f8ec;
+    padding: 0.2rem 0.5rem; 
+    border-bottom: 5px solid hsl(177, 99%, 28%);
+}
+
+.mynavbar{
+    background-color: #00f8ec;
+    border-bottom: 5px solid hsl(177, 99%, 28%);
+}
+
+.mynavbar{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-custom.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #000; 
+    padding: 0.2rem 0.5rem; 
+    font-weight: bold;
+}
+
+.navbar-custom .navbar-nav .nav-link:hover {
+    color: #555;
+}
+
+.drawer-button {
+    color: #000;
+    background-color: #00f8ec;
+    margin: 10px;
+    border: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.drawer-button:hover {
+    background-color: hsl(177, 99%, 28%);
+    color: #fff;
+}
+
+.drawer-list {
+    width: 250px;
+    background-color: #00f8ec;
+    height: 100%;
+    color: black;
+    border: 5px solid hsl(177, 99%, 28%);
+}
+
+.drawer-list .MuiListItem-root {
+    padding: 0.5rem 1rem;
+}
+
+.drawer-list .MuiListItem-root:hover {
+    background-color: hsl(177, 99%, 28%);
+    color: #fff;
+}
+
