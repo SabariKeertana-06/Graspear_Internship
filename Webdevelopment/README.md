@@ -145,7 +145,7 @@ Webdevelopment/
 - **HomePage**: Displays the details and features about the web application.
 - **HowToUse**: Displays the instructions on how to use the AdminDashboarPage and ToDoList.
 - **LoginPage**: Asks email and password from the user and navigates to the dashboard page upon giving correct credentials.
-- **RegisterPage*: Asks user to fill their basic details and stores the information in firebase. 
+- **RegisterPage**: Asks user to fill their basic details and stores the information in firebase. 
 
 ## Possible Errors and Solutions
 
